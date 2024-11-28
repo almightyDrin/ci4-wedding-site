@@ -28,7 +28,7 @@
     <link href="assets/css/style.css" rel="stylesheet">
 </head>
 
-<body>
+<body class="color10">
 
     <!-- start page-wrapper -->
     <div class="page-wrapper">
